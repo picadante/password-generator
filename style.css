@@ -88,6 +88,16 @@ header {
   cursor: pointer;
 }
 
+#clipboard {
+  background-color: rgb(165, 165, 165);
+  color: white;
+}
+
+#clipboard:hover {
+  background-color: rgb(107, 107, 107);
+  color: white;
+}
+
 .btn:hover {
   background-color: rgb(145, 14, 14);
 }
