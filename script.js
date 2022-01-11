@@ -31,14 +31,14 @@ function generatePassword() {
          inputUpperCase = confirm("Add uppercase characters?");
          inputNumbers = confirm("Add numbers?");
          inputSpecialChar = confirm("Add special characters?");
-
+        
         while (inputLowerCase == false && inputUpperCase == false && inputNumbers == false && inputSpecialChar == false)
         {alert("One criteria must be selected.");
             inputLowerCase = confirm("Add lowercase characters?");
             inputUpperCase = confirm("Add uppercase characters?");
             inputNumbers = confirm("Add numbers?");
             inputSpecialChar = confirm("Add special characters?");
-            }
+            } 
 
         var randomPassword = [];
         var results = [];
