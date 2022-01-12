@@ -6,6 +6,7 @@ This assignment you create a password within the requirements below.
 - Lower case letters or not 
 - If you want numbers or not
 - If you want any special character or not
+
 JavaScript will then generate a password randomly based off the prompts you have inputed.
 The password will then appear in the textbox once you have finished with the prompts.
 ## LIVE
