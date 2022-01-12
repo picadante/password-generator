@@ -1,11 +1,11 @@
 # Password Generator
 ## Description
-This assignment you create a password within the requirements below.
+This assignment will help you create a password within the requirements below.
 - Number of characters from a min of 8 to a max of 128
 - Upper case letters or not
 - Lower case letters or not 
 - If you want numbers or not
-- If you want any special character or not
+- If you want any special characters or not
 
 JavaScript will then generate a password randomly based off the prompts you have inputed.
 The password will then appear in the textbox once you have finished with the prompts.
